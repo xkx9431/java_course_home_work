@@ -1,4 +1,3 @@
-package home_work.week04.student;
 
 import java.io.*;
 import java.util.ArrayList;
